@@ -1,0 +1,11 @@
+{
+  "name": "my-finance",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "MY FINANCE - Personal Finance Manager (PWA, tanpa backend)",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "start": "python3 -m http.server 8080"
+  }
+}

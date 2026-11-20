@@ -1,0 +1,15 @@
+{
+  "name": "MY FINANCE",
+  "short_name": "MY FINANCE",
+  "description": "Personal Finance Manager - kelola banyak ATM, transaksi, dan transfer secara lokal.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f7fb",
+  "theme_color": "#1e3a5f",
+  "lang": "id",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
